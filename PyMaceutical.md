@@ -1,8 +1,8 @@
-# Pymaceuticals specializes in drug-based, anti-cancer pharmaceuticals. In their most recent efforts, 
-# they've since begun screening for potential treatments to squamous cell carcinoma (SCC), a commonly 
-# occurring form of skin cancer.ceuticals specializes in drug-based, anti-cancer pharmaceuticals. 
+# Pymaceuticals specializes in drug-based, anti-cancer pharmaceuticals. 
 # In their most recent efforts, they've since begun screening for potential treatments to squamous cell 
 # carcinoma (SCC), a commonly occurring form of skin cancer.
+# We analize the efectiveness of four treatments: Capomulin, Infubinol, Ketapril, and Placebo, and creating charts with 
+# the power of matplotlib to analize the data. 
 
 ```python
 # Import Dependencies 
